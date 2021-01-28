@@ -1,3 +1,3 @@
-================
-The repo is a collection of [tutorials][https://testdriven.io/blog/fastapi-crud/] done in testdriven.io.
+
+The repo is a collection of programming exercises following the [tutorials](https://testdriven.io/blog/fastapi-crud/).
 
